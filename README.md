@@ -1,2 +1,3 @@
 # Hello-world
-Repository
+
+My name is Karabo and I like coding.
